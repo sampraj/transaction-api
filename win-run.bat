@@ -1,0 +1,1 @@
+java -jar target/transaction-api-1.0-SNAPSHOT.jar
