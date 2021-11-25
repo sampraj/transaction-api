@@ -57,4 +57,4 @@ you can access this open-api 3 (swagger-ui) to invoke the services and the APIs
     b. No request body, as we pass the request parameter
 
 
-Note : The JUnit test case is implemented for one of the major  class only, as I had limited time to handle this :)
+Note : The JUnit test case is implemented for one of the major  class only.
